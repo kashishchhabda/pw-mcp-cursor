@@ -1,0 +1,4 @@
+{
+  "tests/TPQA-105-case-creation-tc01.spec.ts": "TPQA-105",
+  "tests/HIQA-163-case-management-approval.spec.ts": "HIQA-163"
+}
